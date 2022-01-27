@@ -85,6 +85,81 @@ Las diferencias observadas dentro del primer GET es que solo extrajo la informac
 ## 👨‍💻 Ejercicio 4
 ## 👨‍💻 Ejercicio 5
 ## 👨‍💻 Ejercicio 6
+### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
+A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
+<br>
+B.	¿Qué es Sales Cloud?
+Herramienta de ventas personalizable, versátil y poderosa que te permitirá hacer un seguimiento de tus contactos y crear reportes en tiempo real.
+<br>
+C.	¿Qué es Service Cloud? La Plataforma de Servicio al Cliente Personalizable, Ágil y Potente
+<br>
+D.	¿Qué es Health Cloud? Desbloquea datos de sistemas heredados de registros y sistemas clínicos, y brinda a los profesionales de la salud las herramientas que necesitan para colaborar de manera más eficiente, comprender mejor a los pacientes y construir relaciones 1 a 1 a lo largo de recorridos completos.
+<br>
+E.	¿Qué es Marketing Cloud? Herramienta para construir estrategias de Marketing Automatizadas y personalizadas. Y sabiendo utilizarla al máximo, las opciones son innumerables y permite transformar por completo la forma de hacer campañas para ser más eficientes y eficaces. 
+<br>
+### Funcionalidades de Salesforce
+A.	¿Qué es un RecordType? Esta palabra clave especifica el tipo de informe. Es obligatoria y el valor debe definirse en WebForm para que el archivo se cargue como script de formulario de datos.
+<br>
+B.	¿Qué es un Page Layout? Definida como una página de diseño.
+<br>
+C.	¿Qué es un Compact Layout? Un diseño compacto muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+<br>
+D.	¿Qué es un Perfil? Los perfiles definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación. Cuando cree usuarios, asigne un perfil a cada uno.
+<br>
+E.	¿Qué es un Rol? Los roles controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización. Usuarios en cualquier función dada pueden ver, editar, e informar sobre todos los datos para funciones por debajo de ellos en la jerarquía de roles.
+<br>
+F.	¿Qué es un Validation Rule?Las reglas de validación verifican que los datos ingresados ​​por los usuarios en los registros cumplan con los estándares que usted especifique antes de que puedan guardarlos. Una regla de validación puede contener una fórmula o expresión que evalúa los datos en uno o más campos y devuelve un valor de "Verdadero" o "Falso".
+<br>
+G.	¿Qué diferencia hay entre una relación Master Detail y Lookup? Puede convertir una relación principal-detalle en una relación de búsqueda siempre que no existan campos de resumen acumulados en el objeto principal.
+<br>
+H.	¿Qué es un Sandbox? Un sandbox es un mecanismo de seguridad para disponer de un entorno aislado del resto del sistema operativo.
+<br>
+I.	¿Qué es un ChangeSet? Software de control de versiones, un conjunto de cambios es un conjunto de confirmaciones recopiladas formalmente que deben tratarse como un grupo.
+<br>
+J.	¿Para qué sirve el import Wizard de Salesforce? acilita la importación de datos para muchos objetos estándar de Salesforce, incluidas cuentas, contactos, clientes potenciales, soluciones, miembros de campaña y cuentas personales. También puede importar datos para objetos personalizados.
+<br>
+K.	¿Para qué sirve la funcionalidad Web to Lead? Web-to-Lead es una función incorporada de Salesforce que permite al propietario del sitio recopilar hasta 500 clientes potenciales por día con los datos de prospección de los visitantes del sitio web de su empresa. 
+<br>
+L.	¿Para qué sirve la funcionalidad Web to Case? Sirve para recopilar las solicitudes de servicio de atención al cliente directamente del sitio web de su compañía y genere automáticamente casos nuevos con Caso Web. 
+<br>
+M.	¿Para qué sirve la funcionalidad Omnichannel? OmniCanal toma los elementos de trabajo entrantes y los enruta a los agentes de asistencia más cualificados y disponibles empleando los criterios de enrutamiento que defina.
+<br>
+N.	¿Para qué sirve la funcionalidad Chatter? Chatter es la red social empresarial de la Plataforma EGA Futura, destinada a facilitar el trabajo colaborativo y la comunicación asincrónica en toda la organización. Esta red atraviesa la totalidad de la plataforma, se encuentra en todas las aplicaciones, está disponible también en la aplicación móvil. 
+
+### Conceptos generales
+A.	¿Qué significa SaaS? Software as a Service, es una forma de poner. a disposición softwares y soluciones de tecnología por medio de la internet, como un servicio.
+<br>
+B.	¿Salesforce es Saas? Si
+<br>
+C.	¿Qué significa que una solución sea Cloud? Es una solución con la integración de la infraestructura del internet y de tecnología.
+<br>
+D.	¿Qué significa que una solución sea On-Premise? Las infraestructuras on-premise son aquellas que se guardan y ejecutan en local en los servidores de las propias empresas.
+<br>
+E.	¿Qué es un pipeline de ventas? Es el sistema que produce una fuente de oportunidades comerciales de calidad para que un equipo pueda convertirlas en clientes reales y así incrementar las ganancias de la empresa. 
+<br>
+F.	¿Qué es un funnel de ventas? Es una representación gráfica del "camino" o las etapas por las que pasa un usuario en su proceso para convertirse en tu cliente.
+<br>
+G.	¿Qué significa Customer Experience? El Customer Experience es una de las disciplinas estratégicas más importantes a valorar en una compañía. Puede generar un valor a las empresas que eleve sus datos de ventas y consumidores.
+<br>
+H.	¿Qué significa omnicanalidad? La estrategia omnicanal es un concepto que en los últimos años se ha difundido ampliamente en el mundo del mercadeo.
+<br>
+I.	¿Qué significa que un negocio sea B2B?¿Qué es un KPI?
+El B2B es un modelo de negocio que consiste en los servicios que una compañía entrega a otra con el objetivo de mejorar las ventas de los productos y bienes que ofrece.Un KPI (Key Performance Indicator) es, dicho de un modo sencillo, un indicador de medida que sirve para controlar la evolución de un proceso en relación a los objetivos de un proyecto.
+<br>
+J.	¿Qué es una API y en qué se diferencia de una Rest API? La API puede emplear cualquier método de comunicación. Por lo general, si se trata de una llamada a sistema, se emplean interrupciones de la API del Kernel de Linux.
+<br>
+K.	¿Qué es un Proceso Batch? El procesamiento batch o por lotes es el proceso mediante el cual una computadora completa lotes de trabajos, a menudo simultáneamente, en orden secuencial y sin parar. 
+<br>
+L.	¿Qué es Kanban? La palabra Kanban viene del japonés y traducida literalmente quiere decir tarjeta con signos o señal visual.
+<br>
+M.	¿Qué es un ERP? Un ERP (siglas de ‘Enterprise Resource Planning’ o ‘Planificación de Recursos Empresariales’) es un conjunto de aplicaciones de software integradas, que nos permiten automatizar la mayoría de las prácticas de negocio relacionadas con los aspectos operativos o productivos.
+<br>
+N.	¿Salesforce es un ERP? Si
+
+## 👨‍💻 Ejercicio 7
+A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
+![image](https://user-images.githubusercontent.com/67445610/151289856-2e06db04-4b98-4675-bb11-9c0c30fa2feb.png)
+
 
 <h4 align="center">A desktop menubar app based on <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
