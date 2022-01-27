@@ -29,16 +29,14 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ## Table of content
 
-- [Instalación](#instalación)
-    - [IDE Visual Studio Code](#ide-visual-studio-code)   
-    - [GIT y GIT Bash](#git-y-git-bash)
+- [Instalación](#instalación-de-ambiente)
 - [Ejercicio 2](#ejercicio-2)
 - [Ejercicio 3](#ejercicio-3)
 - [Ejercicio 4](#ejercicio-4)
 - [Ejercicio 5](#ejercicio-5)
 - [Ejercicio 6](#ejercicio-6)
 - [Ejercicio 7](#ejercicio-7)
-## Instalación
+## Instalación de ambiente
 ### IDE Visual Studio Code  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="20">
 1. Descargar https://code.visualstudio.com/docs/?dv=win64user o https://code.visualstudio.com/docs/?dv=win32user
 2. Abra o descomprima el archivo y arrastre la aplicación a la carpeta `Aplicaciones`.
@@ -211,5 +209,5 @@ A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
 ![image](https://user-images.githubusercontent.com/67445610/151289856-2e06db04-4b98-4675-bb11-9c0c30fa2feb.png)
 
 
-👨‍💻 <h4 align="center">Jessica Hernández Hernández</h4> 👨‍💻
+<h4 align="center"> 👨‍💻 Jessica Hernández Hernández  👨‍💻</h4>
 
