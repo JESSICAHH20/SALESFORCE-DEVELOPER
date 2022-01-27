@@ -23,7 +23,7 @@
 Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h1>
 
-¡Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!, mi nombre es Jessica Hernández Hernández egresada de la carrera en Ingeniería en Tecnologías de la Información 💻 estoy en el interes de poner en practica mis aprendizajes,habilidades y de la misma forma en aprender dentro de la parte laboral, junto con nuevas experiencias y entronos de desarrollo:rocket:.Es por ello que a continuación presento mi resolución a la practica Salesforce- Developer. 
+¡Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!, mi nombre es Jessica Hernández Hernández egresada de la carrera en Ingeniería en Tecnologías de la Información 💻 estoy en el interes de poner en practica mis aprendizajes,habilidades y de la misma forma en aprender dentro de la parte laboral, junto con nuevas experiencias y entronos de desarrollo:rocket:.Es por ello que a continuación presento mi resolución a la práctica Salesforce- Developer. 
 <br>
 <br>
 
