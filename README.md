@@ -31,14 +31,22 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - [Instalación de ambiente](#instalación-de-ambiente)
 - [Ejercicio 2](#ejercicio-2)
+    - [HTTP](#http)
+    - [queryString y Método GET y POST](#querystring-y-método-get-y-POST)
+    - [Estructura JSON y XML](#estructura-json-y-xml)
+    - [Estandar SOAP Y REST FULL](#estandar-soap-y-rest-full)
 - [Ejercicio 3](#ejercicio-3)
     - [GET](#get)
     - [POST](#post)
 - [Ejercicio 4](#ejercicio-4)
     - [Trailhead](#trailhead)
 - [Ejercicio 5](#ejercicio-5)
+    - [Explicación](#explicación)
     - [Diagrama](#diagrama)
 - [Ejercicio 6](#ejercicio-6)
+    - [Soluciones de Salesforce](#soluciones-de-salesforce)
+    - [Funcionalidades de Salesforce](#funcionalidades-de-salesforce)
+    - [Conceptos generales](#conceptos-generales)
 - [Ejercicio 7](#ejercicio-7)
 ## Instalación de ambiente
 #### IDE Visual Studio Code  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="20">
@@ -122,6 +130,7 @@ Las diferencias observadas dentro del primer GET es que solo extrajo la informac
 https://trailblazer.me/id/jhernandezhernandez2
 
 ## Ejercicio 5
+#### Explicación
 1.	Lead es un potencial cliente que demostró interés en un producto o servicio 
 2.	Account almacenar información acerca de clientes o personas individuales con las que hace negocios.
 3.	Contact permite identificar la relación entre las cuentas disponibles y el contacto.
@@ -149,7 +158,7 @@ D.	¿Qué es Health Cloud? Desbloquea datos de sistemas heredados de registros y
 <br>
 E.	¿Qué es Marketing Cloud? Herramienta para construir estrategias de Marketing Automatizadas y personalizadas. Y sabiendo utilizarla al máximo, las opciones son innumerables y permite transformar por completo la forma de hacer campañas para ser más eficientes y eficaces. 
 <br>
-###H Funcionalidades de Salesforce
+#### Funcionalidades de Salesforce
 A.	¿Qué es un RecordType? Esta palabra clave especifica el tipo de informe. Es obligatoria y el valor debe definirse en WebForm para que el archivo se cargue como script de formulario de datos.
 <br>
 B.	¿Qué es un Page Layout? Definida como una página de diseño.
