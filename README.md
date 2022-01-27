@@ -1,3 +1,24 @@
+---
+
+[![NPM version][npm-image]][npm-url] [![gzip][gzip-image]][gzip-url] [![npm download][download-image]][npm-url]
+
+[![build status][buildstatus-image]][buildstatus-url] [![Test coverage][coveralls-image]][coveralls-url] [![Commitizen friendly][commitizen]][commitizen-url] [![semantic-release][semantic-release]][semantic-release-url] [![All Contributors][all-contributors-url]](#contributors) ![npm type definitions][types-url]
+
+[npm-image]: http://img.shields.io/npm/v/react-dropdown-tree-select.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/react-dropdown-tree-select
+[buildstatus-image]: https://github.com/dowjones/react-dropdown-tree-select/workflows/CI/badge.svg?branch=develop
+[buildstatus-url]: https://github.com/dowjones/react-dropdown-tree-select/actions?query=workflow%3ACI
+[coveralls-image]: https://img.shields.io/coveralls/dowjones/react-dropdown-tree-select.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/dowjones/react-dropdown-tree-select?branch=master
+[download-image]: https://img.shields.io/npm/dt/react-dropdown-tree-select.svg?style=flat-square
+[commitizen]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square
+[commitizen-url]: http://commitizen.github.io/cz-cli/
+[gzip-image]: http://img.badgesize.io/https://unpkg.com/react-dropdown-tree-select/dist/react-dropdown-tree-select.js?compression=gzip&style=flat-square
+[gzip-url]: https://unpkg.com/react-dropdown-tree-select/dist/react-dropdown-tree-select.js
+[semantic-release]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square
+[semantic-release-url]: https://github.com/semantic-release/semantic-release
+[all-contributors-url]: https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square
+[types-url]: https://img.shields.io/npm/types/react-dropdown-tree-select.svg?style=flat-square
 <h1 align="center">
 Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h1>
@@ -9,8 +30,14 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ## Table of content
 
 - [Instalación](#instalación)
+    - [IDE Visual Studio Code](#ide-visual-studio-code)   
+    - [GIT y GIT Bash](#git-y-git-bash)
 - [Ejercicio 2](#ejercicio-2)
-
+- [Ejercicio 3](#ejercicio-3)
+- [Ejercicio 4](#ejercicio-4)
+- [Ejercicio 5](#ejercicio-5)
+- [Ejercicio 6](#ejercicio-6)
+- [Ejercicio 7](#ejercicio-7)
 ## Instalación
 ### IDE Visual Studio Code  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="20">
 1. Descargar https://code.visualstudio.com/docs/?dv=win64user o https://code.visualstudio.com/docs/?dv=win32user
@@ -76,7 +103,7 @@ Ejemplo:
 REST, que es el acrónimo de Representational State Transfer. A diferencia de SOAP, más que un protocolo es una definición de arquitectura se donde nos indica cómo realizar el intercambio y manejo de datos a través de servicios web. A aquellos servicios web que siguen su definición se les conocen como RESTful Web services. El SOAP (Simple Object Access Protocol), es un protocolo que nos permitirá realizar servicios web sin estado, a través de TCP y con un formato XML.
 <br>
 El Content-Type es la propiedad de cabecera (header) usada para indicar el  media type (en-US) del recurso. Content-Type dice al cliente que tipo de contenido será retornado
-## 👨‍💻 Ejercicio 3
+## Ejercicio 3
 ### GET 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 ![image](https://user-images.githubusercontent.com/67445610/151291547-c97763a7-1ccf-4854-8e69-2021dc97dd8a.png)
@@ -88,11 +115,11 @@ El Content-Type es la propiedad de cabecera (header) usada para indicar el  medi
 <br>
 Las diferencias observadas dentro del primer GET es que solo extrajo la información que contenia el HTTP, mientras que al generar el POST en el HTTP este permitio poder realizar la inserción de un nuevo dato, que después de ejecutar un GET por segunda vez este lo mostro de forma correcta.
 
-## 👨‍💻 Ejercicio 4
+## Ejercicio 4
 ### Trailhead
 https://trailblazer.me/id/jhernandezhernandez2
 
-## 👨‍💻 Ejercicio 5
+## Ejercicio 5
 1.	Lead es un potencial cliente que demostró interés en un producto o servicio 
 2.	Account almacenar información acerca de clientes o personas individuales con las que hace negocios.
 3.	Contact permite identificar la relación entre las cuentas disponibles y el contacto.
@@ -107,7 +134,7 @@ https://trailblazer.me/id/jhernandezhernandez2
 
 https://github.com/JESSICAHH20/SALESFORCE-DEVELOPER/blob/main/Ejercicio5.drawio.png
 
-## 👨‍💻 Ejercicio 6
+## Ejercicio 6
 ### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
 A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
 <br>
@@ -179,10 +206,10 @@ M.	¿Qué es un ERP? Un ERP (siglas de ‘Enterprise Resource Planning’ o ‘P
 <br>
 N.	¿Salesforce es un ERP? Si
 
-## 👨‍💻 Ejercicio 7
+##  Ejercicio 7
 A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
 ![image](https://user-images.githubusercontent.com/67445610/151289856-2e06db04-4b98-4675-bb11-9c0c30fa2feb.png)
 
 
-<h4 align="center">Jessica Hernández Hernández</h4>
+👨‍💻 <h4 align="center">Jessica Hernández Hernández</h4> 👨‍💻
 
