@@ -32,7 +32,7 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - [Instalación de ambiente](#instalación-de-ambiente)
 - [Ejercicio 2](#ejercicio-2)
     - [HTTP](#http)
-    - [queryString y Método GET y POST](#querystring-y-método-get-y-POST)
+    - [queryString y Método GET y POST](#querystring-y-método-get-y-post)
     - [Estructura JSON y XML](#estructura-json-y-xml)
     - [Estandar SOAP Y REST FULL](#estandar-soap-y-rest-full)
 - [Ejercicio 3](#ejercicio-3)
@@ -146,8 +146,8 @@ https://trailblazer.me/id/jhernandezhernandez2
 https://github.com/JESSICAHH20/SALESFORCE-DEVELOPER/blob/main/Ejercicio5.drawio.png
 
 ## Ejercicio 6
-#### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
-A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
+#### Soluciones de Salesforce  
+A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
 <br>
 B.	¿Qué es Sales Cloud?
 Herramienta de ventas personalizable, versátil y poderosa que te permitirá hacer un seguimiento de tus contactos y crear reportes en tiempo real.
