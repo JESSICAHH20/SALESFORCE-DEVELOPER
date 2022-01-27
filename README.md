@@ -27,9 +27,9 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <br>
 <br>
 
-## Table of content
+## Tabla de Contenido
 
-- [Instalación](#instalación-de-ambiente)
+- [Instalación de ambiente](#instalación-de-ambiente)
 - [Ejercicio 2](#ejercicio-2)
 - [Ejercicio 3](#ejercicio-3)
 - [Ejercicio 4](#ejercicio-4)
