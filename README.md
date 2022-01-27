@@ -114,7 +114,7 @@ El Content-Type es la propiedad de cabecera (header) usada para indicar el  medi
 Las diferencias observadas dentro del primer GET es que solo extrajo la información que contenia el HTTP, mientras que al generar el POST en el HTTP este permitio poder realizar la inserción de un nuevo dato, que después de ejecutar un GET por segunda vez este lo mostro de forma correcta.
 
 ## Ejercicio 4
-### Trailhead
+#### Trailhead
 https://trailblazer.me/id/jhernandezhernandez2
 
 ## Ejercicio 5
@@ -133,7 +133,7 @@ https://trailblazer.me/id/jhernandezhernandez2
 https://github.com/JESSICAHH20/SALESFORCE-DEVELOPER/blob/main/Ejercicio5.drawio.png
 
 ## Ejercicio 6
-### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
+#### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
 A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
 <br>
 B.	¿Qué es Sales Cloud?
@@ -145,7 +145,7 @@ D.	¿Qué es Health Cloud? Desbloquea datos de sistemas heredados de registros y
 <br>
 E.	¿Qué es Marketing Cloud? Herramienta para construir estrategias de Marketing Automatizadas y personalizadas. Y sabiendo utilizarla al máximo, las opciones son innumerables y permite transformar por completo la forma de hacer campañas para ser más eficientes y eficaces. 
 <br>
-### Funcionalidades de Salesforce
+###H Funcionalidades de Salesforce
 A.	¿Qué es un RecordType? Esta palabra clave especifica el tipo de informe. Es obligatoria y el valor debe definirse en WebForm para que el archivo se cargue como script de formulario de datos.
 <br>
 B.	¿Qué es un Page Layout? Definida como una página de diseño.
@@ -174,7 +174,7 @@ M.	¿Para qué sirve la funcionalidad Omnichannel? OmniCanal toma los elementos 
 <br>
 N.	¿Para qué sirve la funcionalidad Chatter? Chatter es la red social empresarial de la Plataforma EGA Futura, destinada a facilitar el trabajo colaborativo y la comunicación asincrónica en toda la organización. Esta red atraviesa la totalidad de la plataforma, se encuentra en todas las aplicaciones, está disponible también en la aplicación móvil. 
 
-### Conceptos generales
+#### Conceptos generales
 A.	¿Qué significa SaaS? Software as a Service, es una forma de poner. a disposición softwares y soluciones de tecnología por medio de la internet, como un servicio.
 <br>
 B.	¿Salesforce es Saas? Si
