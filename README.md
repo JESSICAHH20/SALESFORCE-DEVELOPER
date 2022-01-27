@@ -5,7 +5,13 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ¡Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!, mi nombre es Jessica Hernández Hernández egresada de la carrera en Ingeniería en Tecnologías de la Información 💻 estoy en el interes de poner en practica mis aprendizajes,habilidades y de la misma forma de aprender dentro de la parte laboral junto con nuevas experiencias y entronos de desarrollo:rocket:.Es por ello que a continuación presento mi resolución a la paractica Salesforce- Developer. 
 <br>
 <br>
-## 👨‍💻 Instalación del ambiente
+
+## Table of content
+
+- [Instalación](#instalación)
+- [Ejercicio 2](#ejercicio-2)
+
+## Instalación
 ### IDE Visual Studio Code  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="20">
 1. Descargar https://code.visualstudio.com/docs/?dv=win64user o https://code.visualstudio.com/docs/?dv=win32user
 2. Abra o descomprima el archivo y arrastre la aplicación a la carpeta `Aplicaciones`.
@@ -26,7 +32,7 @@ Salesforce-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 git config --global user.name "Tu nombre"
 git config --global user.email "ejemplo@email.com"
 ```
-## 👨‍💻 Ejercicio 2
+## Ejercicio 2
 ### HTTP.
 Actualmente un servidor HTTP *(HyperText Transfer Protocol)* es conocido también como un servidor web, donde es posible alojar un sitio web o en otros casos cualquier tipo de archivos. Los verbos más conocidos son *Get, (Read), Post (Crear), Put (Actualizar), y Delete (Eliminar)*. Dentro del HTTP se encuentra el request denominado asi a la acción de enviar una petición al servidor, mientras que el *Response*, es la respuesta por parte del servidor, solicitada antes en el *request*. Considerando que dentro de esto estan los *headers*, encargados de describir el contenido del *response*. 
 <br>
@@ -83,6 +89,9 @@ El Content-Type es la propiedad de cabecera (header) usada para indicar el  medi
 Las diferencias observadas dentro del primer GET es que solo extrajo la información que contenia el HTTP, mientras que al generar el POST en el HTTP este permitio poder realizar la inserción de un nuevo dato, que después de ejecutar un GET por segunda vez este lo mostro de forma correcta.
 
 ## 👨‍💻 Ejercicio 4
+### Trailhead
+https://trailblazer.me/id/jhernandezhernandez2
+
 ## 👨‍💻 Ejercicio 5
 1.	Lead es un potencial cliente que demostró interés en un producto o servicio 
 2.	Account almacenar información acerca de clientes o personas individuales con las que hace negocios.
@@ -175,5 +184,5 @@ A.	Consultar tu ID haciendo un GET con POSTMAN a este WS:
 ![image](https://user-images.githubusercontent.com/67445610/151289856-2e06db04-4b98-4675-bb11-9c0c30fa2feb.png)
 
 
-<h4 align="center">A desktop menubar app based on <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Jessica Hernández Hernández</h4>
 
