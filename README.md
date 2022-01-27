@@ -73,17 +73,30 @@ El Content-Type es la propiedad de cabecera (header) usada para indicar el  medi
 ## 👨‍💻 Ejercicio 3
 ### GET 
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
-![image](https://user-images.githubusercontent.com/67445610/151274676-0807dc5e-2e37-4fa3-ac4a-5fcb074b6175.png)
+![image](https://user-images.githubusercontent.com/67445610/151291547-c97763a7-1ccf-4854-8e69-2021dc97dd8a.png)
 ### POST
 2.	Realizar un request POST a la URL anterior, y con body:
-![image](https://user-images.githubusercontent.com/67445610/151275362-ab3ef430-cbc2-44b9-a60e-f50d4d950310.png)
+![image](https://user-images.githubusercontent.com/67445610/151291682-26ceb662-646d-4888-abc0-ed9ac47f94ee.png)
 3. Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
-![image](https://user-images.githubusercontent.com/67445610/151275607-b8ed95d0-cebe-4bad-a7aa-3f1216936db6.png)
+![image](https://user-images.githubusercontent.com/67445610/151291841-fd58a7d8-b028-406c-be4f-0b9c86fde3e9.png)
 <br>
 Las diferencias observadas dentro del primer GET es que solo extrajo la información que contenia el HTTP, mientras que al generar el POST en el HTTP este permitio poder realizar la inserción de un nuevo dato, que después de ejecutar un GET por segunda vez este lo mostro de forma correcta.
 
 ## 👨‍💻 Ejercicio 4
 ## 👨‍💻 Ejercicio 5
+1.	Lead es un potencial cliente que demostró interés en un producto o servicio 
+2.	Account almacenar información acerca de clientes o personas individuales con las que hace negocios.
+3.	Contact permite identificar la relación entre las cuentas disponibles y el contacto.
+4.	Opportunity son acuerdos en curso Los registros de oportunidad realizan un seguimiento de detalles acerca de acuerdos, incluyendo para qué cuentas son, quiénes son las personas implicadas y las cantidades de las ventas potenciales. 
+5.	Product aquellos encargados de innovar el negocio.
+6.	PriceBook es la lista maestra de todos sus productos y sus precios estándar predeterminados.
+7.	Quote representan los precios propuestos de los productos y servicios de su empresa. Usted crea una cotización a partir de una oportunidad y sus productos. 
+8.	Asset representan los productos específicos que sus clientes han comprado. 
+9.	Case para ver cómo afectan el proceso de ventas. Responder a los casos mantiene contentos a sus clientes y mejora su marca.
+10.	Article son aquellos elementos indispensables para el negocio.
+#### Diagrama
+
+
 ## 👨‍💻 Ejercicio 6
 ### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
 A.	¿Qué es Salesforce? Es una solución de gestión de relaciones con clientes que une empresas y clientes. Es una plataforma CRM integrada que brinda a todos tus departamentos, incluidos marketing, ventas, comercio y servicios, una vista única y compartida de cada cliente.
