@@ -96,6 +96,7 @@ Las diferencias observadas dentro del primer GET es que solo extrajo la informac
 10.	Article son aquellos elementos indispensables para el negocio.
 #### Diagrama
 
+https://github.com/JESSICAHH20/SALESFORCE-DEVELOPER/blob/main/Ejercicio5.drawio.png
 
 ## 👨‍💻 Ejercicio 6
 ### Soluciones de Salesforce  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" width="40">
